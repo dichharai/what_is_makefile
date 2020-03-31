@@ -80,6 +80,8 @@ public class HandWashingTechnique{
         wrist();
         divider();
         rinse();
+        divider();
+        dry();
    }
 
 }
